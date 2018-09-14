@@ -1,0 +1,1 @@
+type: bank, name: Raiffeisen Bank, risk: 0.5%, revenue: 1:5%, 1:2%, *:0.3%, inTax: 4, outTax: 15
